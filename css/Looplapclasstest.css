@@ -1,0 +1,211 @@
+body{
+    border: 0;
+    padding: 0;
+    background-color: rgb(3, 31, 41);
+  
+}
+.navbar{
+    background-color: #3131504d;
+    border-bottom: 2px solid rgba(248, 248, 255, 0.596);
+    
+}
+.navbar .container .nav-link{
+    color: rgb(248, 248, 248);
+    padding: 10px;
+    font-family: 'Gill Sans';
+    font-weight: 300;
+    font-size: 25px;
+}
+#Home{
+    background-image: url(../img/Jv97qt.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 700px;
+}
+#Home .dark-overlay{
+    background-color: rgba(91, 92, 94, 0.315);
+    min-height: 700px;
+    
+}#Home .container-fluid{
+
+    padding-top: 100px;
+    
+}
+
+#Home .display-4{
+    color: rgb(248, 250, 246);
+    font-size: 36px;
+    line-height: 1.5;
+    font-family: Bookman Old Style;
+    padding-left: 100px;
+    margin-top: 60px;
+}
+
+#Home .container-fluid .lead{
+    color: rgba(247, 247, 215, 0.945);
+    line-height: 1.5;
+    padding-left: 20px;
+    font-weight: 900;
+    font-family: Berlin Sans FB Demi;
+    
+
+}
+#Home .container-fluid .d-flex i{
+    margin-left: 100px;
+   background-color: rgb(52, 248, 222);
+   height: 35px;
+   width: 30px;
+   text-align: center;
+   padding-top: 10px;
+   border-radius: 50%;
+}
+
+#Home .card-body{
+    margin-right: 0;
+   
+    
+}
+
+
+/* form csss */
+#Home .container-fluid .card-body  .input-group .input-group-text{
+    color: rgb(230, 73, 73);
+    padding: 10px;
+    margin:0;
+    
+}
+
+#Home .container-fluid .card{
+    width: 350px;
+    margin-top: 70px;
+    margin-left: 20%;
+    background-color: rgba(35, 245, 234, 0.664);
+    border-radius:10% 5% 5% 20%;
+    
+}
+
+
+/* C section */
+
+#C-head-section{
+    background-color: rgba(13, 179, 13, 0.479);
+}
+#C .container img{
+    border: 20px solid rgb(247, 247, 244);
+    margin-top: 50px;
+}
+#C{
+    background-color: rgba(128, 240, 225, 0.678);
+    background-image: url(../img/e91814f.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 600px;
+}
+#C h3{
+    margin-top: 50px;
+    font-size: 40px;
+}
+#C .container .CSSC{
+    margin-top: 30px;
+    background-color: rgba(60, 61, 61, 0.671);
+    border: 20px solid rgba(148, 148, 146, 0.884);
+}
+#C .lead{
+    color: rgb(237, 243, 241);
+    line-height: 1.5;
+    padding-left: 20px;
+    font-weight: 900;
+    font-family: Berlin Sans FB Demi;
+}
+
+/* C++ (CCC) section*/
+
+
+#CCC-head-section{
+    background-color: rgba(32, 179, 13, 0.452);
+}
+#CCC .container img{
+    border: 20px solid rgb(247, 247, 244);
+    margin-top: 50px;
+}
+#CCC{
+    background-color: rgba(128, 240, 225, 0.678);
+    background-image: url(../img/python-r.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 600px;
+}
+#CCC h3{
+    margin-top: 50px;
+    font-size: 40px;
+}
+#CCC .container .CSSC{
+    margin-top: 30px;
+    background-color: rgba(60, 61, 61, 0.671);
+    border: 20px solid rgba(153, 153, 150, 0.884);
+}
+#CCC .lead{
+    color: rgb(237, 243, 241);
+    line-height: 1.5;
+    padding-left: 20px;
+    font-weight: 900;
+    font-family: Berlin Sans FB Demi;
+}
+
+
+/* Java section*/
+
+
+#Java-head-section{
+    background-color: rgba(32, 179, 13, 0.452);
+}
+#Java .container img{
+    border: 20px solid rgb(247, 247, 244);
+    margin-top: 50px;
+}
+#Java{
+    background-color: rgba(128, 240, 225, 0.678);
+    background-image: url(../img/-silq_1600.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 600px;
+}
+#Java h3{
+    margin-top: 50px;
+    font-size: 40px;
+}
+#Java .container .CSSC{
+    margin-top: 30px;
+    background-color: rgba(60, 61, 61, 0.671);
+    border: 20px solid rgba(153, 153, 150, 0.884);
+}
+#Java .lead{
+    color: rgb(237, 243, 241);
+    line-height: 1.5;
+    padding-left: 20px;
+    font-weight: 900;
+    font-family: Berlin Sans FB Demi;
+}
+
+/* End section */
+
+#End-section{
+    background-color: rgba(12, 59, 2, 0.822);
+    font-family:Lucida Handwriting;
+}
+
+/* icon */
+
+#End-section .icon li{
+    list-style-type: none;
+    float: left;
+    margin-left: 225px;
+}
+
+#End-section .icon a{
+   margin-top: 20px;
+   padding: 5px;
+   font-size: 40px;
+   display: block;
+}
